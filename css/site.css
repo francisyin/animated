@@ -1,0 +1,45 @@
+@charset "utf-8";
+.container-fluid {
+	
+}
+.slidemargin {
+	margin-top:50px;
+}
+.nav>li>a {
+	color:white;
+}
+.navbar {
+	margin-bottom: 0px;
+}
+.navbar-nav>li>a:hover {
+	color:white;
+	background-color:#A3D8DE;
+}
+
+.headbg {
+	background-color:#3a74aa;
+}
+
+.fbpad {
+	padding-left:500px;
+}
+.rowmargintop {
+	margin-top:80px;
+	text-align:center;
+}
+figure img {
+	width:100%;
+}
+figcaption p {
+	background-color:#d7d8d8;
+}
+.footerbg {
+	background-color:#e5e4e4;	
+}
+.footermargin {
+	margin-top:100px;
+	text-align:center;
+}
+.logopad {
+	padding-left:120px;
+}
